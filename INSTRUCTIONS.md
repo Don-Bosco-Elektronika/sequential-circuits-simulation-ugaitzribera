@@ -13,15 +13,14 @@ Hurrengo zirkuitu integratuen funtzionamendua simulatu, sarrera *pull-up* erresi
 
 ## 🔲 Circuitos a Simular / Simulatzeko zirkuituak / Circuits to Simulate
 
-- **4044** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **74100** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **74175** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **7476** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **4027** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description.  
-- **74164** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description.  
-- **74165** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **74595** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-
+- **4044** →Lauko latch-a (RS Latch). NAND ateekin osatutako lau memoriamodulu independente ditu, egoera logikoak gordetzeko erabiltzen direnak 
+- **74100** → 8 biteko latch-a. D motako bi latch biltzen ditu (bakoitza 4 bitekoa), datuak aldi baterako biltegiratzeko interfaze gisa erabilia 
+- **74175** → D motako lau flip-flop (Quad D-Type Flip-Flop). Lau datu bit aldi berean gordetzen ditu erloju-seinale bakar batekin, eta irteera osagarriak ($Q$ eta $\bar{Q}$) ditu 
+- **7476** →J-K motako flip-flop bikoitza, "Preset" eta "Clear" sarrerekin. Kontagailuak eta sekuentzia logikoak diseinatzeko oso ohikoa da
+- **4027** → J-K motako flip-flop bikoitza. Master-Slave teknologia erabiltzen du eta seinaleak sinkronizatzeko edo maiztasuna erdira banatzeko balio du  
+- **74164** → 8 biteko serie-sarrera eta paralelo-irteerako erregistroa (Shift Register). Datuak banan-banan sartzen dira eta 8 irteeratan batera erakusten dira.  
+- **74165** →8 biteko paralelo-sarrera eta serie-irteerako erregistroa. Aurrekoaren alderantzizkoa da: 8 etengailuren egoera irakurri eta kable bakar batetik bidaltzeko erabiltzen da. 
+- **74595** →8 biteko shift register-a, irteerako latch-arekin. Oso ezaguna da mikrokontrolatzaileekin (adibidez, Arduino) erabiltzeko, irteera kopurua handitu eta LEDak edo pantailak kontrolatzeko aukera ematen duelako
 ---
 
 ## 📤 Igo   
