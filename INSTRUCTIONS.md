@@ -6,18 +6,10 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
-
-**Ejercicio (ES):**  
-Simula el funcionamiento de los siguientes circuitos integrados, utilizando entradas con resistencias *pull-up* y salidas visualizadas mediante LEDs.  
+## 📌 Ejercicio / Ariketa / Exercice  
 
 **Ariketa (EU):**  
 Hurrengo zirkuitu integratuen funtzionamendua simulatu, sarrera *pull-up* erresistentziak eta LED bidez ikusgai diren irteerak erabiliz.  
-
-**Exercice (EN):**  
-Simulate the operation of the following integrated circuits, using pull-up resistors on the inputs and outputs visualized with LEDs.  
-
----
 
 ## 🔲 Circuitos a Simular / Simulatzeko zirkuituak / Circuits to Simulate
 
@@ -32,12 +24,10 @@ Simulate the operation of the following integrated circuits, using pull-up resis
 
 ---
 
-## 📤 Entrega / Igo / Upload  
+## 📤 Igo   
 
 ➡️ **Instrucciones:**  
 
-- **ES:** Sube un sólo archivo de Proteus en el que estén simulados todos los chips mencionados en ese archivo. Todos los archivos subidos han de tener tu nombre. 
 - **EU:** Igo Proteus fitxategi bakar bat, aipatutako txip guztiak bertan simulatuta egongo diren. Igotako archivo guztiak zure izena eduki beharko dute.
-- **EN:** Upload a single Proteus file in which all the mentioned chips are simulated. All uploaded files must have your name.
 
 
